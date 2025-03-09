@@ -1,0 +1,391 @@
+{
+    "spec_version": "v1.6",
+    "identifier": "TLWCompletev1-3",
+    "name": "TLW Complete v1.3",
+    "abstract": "",
+    "author": "Smooneychad",
+    "version": "v1.3",
+    "ksp_version_min": "0.23",
+    "ksp_version_max": "1.12.5",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "AdvancedFlyByWire",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AircraftCarrierAccessories",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AirplanePlus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ALCOR",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ASETAvionics",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AuroraSpaceCenter",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9-PWings-Fork",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BallisticFoxsLukewarmTUFXProfile",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BDArmoryExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BDArmoryForRunwayProject",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BDArmoryFPS",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CameraTools",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ColonyBlocksandPlatforms",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ConformalDecals",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ContinuousCollisions",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DE-IVAExtension",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Deferred",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DestructionEffects",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DistantObject",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DistantObject-default",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements-HR",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FarFutureTechnologies",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Firefly",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FreeIva",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HangerExtenderExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HeatControl",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HUDReplacer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HullcamVDSContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalAnimationSuiteCont",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalCitiesPack",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalEngineerRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalField",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalFoundriesContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalizdSatelliteDish",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalJointReinforcementContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalKonstructs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbinSideCore",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbinSideKampus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbinSideRemastered",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KolonyConstructs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSCHarbor",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "LazyPainter",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Mk2Expansion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Mk3Expansion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ModeratelyPlaneRelated",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureAeronautics",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureConstruction",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureElectrical",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureExploration",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureLaunchVehicles",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureProps",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFuturePropulsion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureSolar",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureSpacecraft",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NiceMKseriesBody",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NightVisionAndMoreTUFXprofile",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NorthKerbinDynamicsRenewedExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "OffShoreLaunchPlatform",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "OrdinaryKonstruction",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Parallax",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PoodsDeepStarMap",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProceduralParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RCSBuildAid",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RecolorCollection-NearFutureAeronautics",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RecolorCollection-NearFutureLaunchVehicles",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RecolorCollection-NearFuturePropulsion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RecolorCollection-NearFutureSpacecraft",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RefurbishedArmory",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Reviva",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer-config",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer-sunflare",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SmartParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StationPartsExpansionRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StockalikeStructures",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StockWaterfallEffects",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TextureReplacer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TUFX",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TundraSpaceCenter",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleRescaled",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleRescaled-Redist",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleRescaled-SafetyNet",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakscaleUnlimited",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VABOrganizer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VansKSC",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VaporCones",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VesselView",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VesselView-UI-RasterPropMonitor",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Waterfall",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WaterfallExtensions",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ZeroMiniAVC",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ZTheme",
+            "suppress_recommendations": true
+        }
+    ],
+    "release_date": "2025-02-22T20:16:17.0682649Z",
+    "kind": "metapackage"
+}
