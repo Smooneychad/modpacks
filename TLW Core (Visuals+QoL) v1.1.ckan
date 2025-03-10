@@ -1,0 +1,159 @@
+{
+    "spec_version": "v1.6",
+    "identifier": "TLWCore",
+    "name": "TLW Core",
+    "abstract": "",
+    "author": "Smooneychad",
+    "version": "v1.1",
+    "ksp_version_min": "0.23",
+    "ksp_version_max": "1.12",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "AirplanePlus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9-PWings-Fork",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BallisticFoxsLukewarmTUFXProfile",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BDArmoryExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BDArmoryForRunwayProject",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Deferred",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DestructionEffects",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DistantObject",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DistantObject-default",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements-HR",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Firefly",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HangerExtenderExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HUDReplacer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalEngineerRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalField",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalJointReinforcementContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "LazyPainter",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Mk2Expansion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ModeratelyPlaneRelated",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureAeronautics",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NiceMKseriesBody",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NightVisionAndMoreTUFXprofile",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NorthKerbinDynamicsRenewedExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProceduralParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RCSBuildAid",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RefurbishedArmory",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer-config",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer-sunflare",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SmartParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TUFX",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleCompanion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VABOrganizer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VaporCones",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ZTheme",
+            "suppress_recommendations": true
+        }
+    ],
+    "release_date": "2025-02-11T06:17:11.6204391Z",
+    "kind": "metapackage"
+}
