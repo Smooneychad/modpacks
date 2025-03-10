@@ -1,0 +1,75 @@
+{
+    "spec_version": "v1.6",
+    "identifier": "TLWCORE1",
+    "name": "TLW Core (No Visuals) v1.0",
+    "abstract": "A list of modules installed on the KSP TLW (no visuals) KSP instance",
+    "author": "Smooneychad",
+    "version": "2025.02.11.05.00.25",
+    "ksp_version_min": "1.0",
+    "ksp_version_max": "1.12.5",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "AirplanePlus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9-PWings-Fork",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BDArmoryExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BDArmoryForRunwayProject",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalField",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalJointReinforcementContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Mk2Expansion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ModeratelyPlaneRelated",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureAeronautics",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NiceMKseriesBody",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NorthKerbinDynamicsRenewedExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProceduralParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RefurbishedArmory",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SmartParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleCompanion",
+            "suppress_recommendations": true
+        }
+    ],
+    "release_date": "2025-02-11T05:00:25.6538429Z",
+    "kind": "metapackage"
+}
